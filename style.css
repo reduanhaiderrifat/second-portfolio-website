@@ -145,3 +145,29 @@ nav,li{
   text-align: center;
   margin-top: 60px;
 }
+footer{
+  display: flex;
+  gap: 100px;
+  background-color: rgba(255, 228, 196, 0.723);
+  padding: 130px 200px;
+  margin-top: 100px;
+
+}
+.section-title{
+  padding-bottom: 30px;
+}
+.footer-column{
+  width: 50%;
+}
+.contact input[type="text"],.contact input[type="email"],textarea{
+  display: block;
+  margin-bottom: 25px;
+  padding: 18px 35px;
+  color: #757575;
+  border-radius: 5px;
+  border: 0;
+  width: 100%;
+}
+.social-links a{
+  margin-right: 25px;
+}
