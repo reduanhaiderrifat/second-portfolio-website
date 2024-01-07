@@ -85,3 +85,17 @@ nav,li{
   font-weight: 700;
   margin: 5px;
 }
+.about{
+  border: 1px;
+  border-radius: 10px;
+  background-color: bisque;
+  padding: 130px;
+
+  margin: 130px;
+}
+.about-info-container{
+  display: flex;
+  justify-content: space-around;
+  padding-top: 10px;
+}
+
