@@ -134,12 +134,18 @@ nav,li{
 .resume-column-title{
   font-size: 30px;
   font-weight: 700;
+  padding: 0 20px;
 }
 .resume-item-title{
       color: #474747;
+      padding: 0 20px;
 }
 .resume-item-school{
   color: #474747;
+  padding: 0 20px ;
+}
+.resume-item-description{
+  padding: 10px 20px;
 }
 .btn-cv{
   text-align: center;
